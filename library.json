@@ -1,0 +1,26 @@
+{
+    "name": "Configurator",
+    "keywords": "configurator, web, server, webserver, wifi, executor, runnable",
+    "description": "This is library for synchronizing with NTP time server",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/adamszadkowski/Configurator.git"
+    },
+    "authors": [
+        {
+            "name": "Adam Szadkowski",
+            "email": "adam@szadkowski.info",
+            "url": "http://www.szdadkowski.info",
+            "maintainer": true
+        }
+    ],
+    "dependencies": [
+        {
+            "name": "Executor",
+            "authors": "Adam Szadkowski",
+            "version": "~0.2.1"
+        }
+    ],
+    "version": "0.1.0",
+    "platforms": "espressif8266"
+}
